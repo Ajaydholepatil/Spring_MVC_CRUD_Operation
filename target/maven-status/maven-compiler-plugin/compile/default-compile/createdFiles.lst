@@ -1,0 +1,6 @@
+com\mvccrud\controllers\StudentController.class
+com\mvccrud\dao\StudentDao.class
+com\mvccrud\domain\Student.class
+com\mvccrud\dao\StudentDao$3.class
+com\mvccrud\dao\StudentDao$1.class
+com\mvccrud\dao\StudentDao$2.class
